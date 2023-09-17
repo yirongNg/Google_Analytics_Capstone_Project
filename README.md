@@ -2,7 +2,7 @@
 
 ## 🔗 Project Links
 - [Data Cleaning on Jupyter Notebook](Step1_Data_Cleaning_Python.ipynb)
-- [Data Analysis on SQL](Step2_Data_Analysis_SQL.ipynb)
+- [Data Analysis using SQL](Step2_Data_Analysis_SQL.ipynb)
 - [Interactive Dashboard on Tableau](https://public.tableau.com/views/GoogleDataAnalyticsCapstoneProject_16933290511080/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## 📖 Background
@@ -24,7 +24,14 @@
 2. We can make the *Leaf* to have the necessary features for sports since 50% of the daily users wear it for high intensity activities.
 3. Our *Leaf* must have a distance tracking accuracy of close to 100% so that we can attract consumers, who are very active in running long distances, to purchase our products.
 4. Our *Leaf* must have the capability to track users’ sleeping patterns and provide insights on their sleeping habits (i.e. frequency of waking up in the middle of sleep).
-5. We can promote *Leaf* to consumers who are very active in sports and care about their daily wellness because they are more likely to be motivated to use the product and achieve their health goals.	
+5. We can promote *Leaf* to consumers who are very active in sports and care about their daily wellness because they are more likely to be motivated to use the product and achieve their health goals.
+
+![Overview_of_Smart_Watch_Usage](https://github.com/yirongNg/Google_Analytics_Capstone_Project/assets/132359604/5b8c3749-b6f7-4945-a53e-33769d170663)
+
+![Daily_users_usage_pattern](https://github.com/yirongNg/Google_Analytics_Capstone_Project/assets/132359604/ca3de94a-db9f-4228-8b8c-88b9e0453089)
+
+
+
 
 
   
