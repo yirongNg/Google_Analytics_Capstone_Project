@@ -8,7 +8,7 @@
 ## 📖 Background
 - The case study that I Have worked on is [How can a Wellness Technology Company Play It Smart?](Case_Study.pdf)
 - The project executive summary, analysis, findings, and recommendations can be found in the [Project Report](Project_Report.pdf)
-- The goal of this project is to analyze smart device fitness data to gain insight into how consumers are using their smart devices. We will focus on one of Bellabeat’s products called Leaf because the data tracked by this wearable is similar to the smart device data that   we will be using to perform our analysis. After analyzing the data, we will present our analysis on consumer trends to the Bellabeat executive team along with high-level recommendations for Bellabeat’s marketing strategy.
+- The goal of this project is to analyze smart device fitness data to gain insight into how consumers are using their smart devices. We will focus on one of Bellabeat’s products called *Leaf* because the data tracked by this wearable is similar to the smart device data that we will be using to perform our analysis. After analyzing the data, we will present our analysis on consumer trends to the Bellabeat executive team along with high-level recommendations for Bellabeat’s marketing strategy.
 
 ## 🔍 Findings and Recommendations
 ### Findings
